@@ -1,5 +1,8 @@
 ### Hi there I'm Michael👋
 
+- 🌱 I’m currently learning C#, Rust, Java and Python
+- 📫 How to reach me: s27799@pjwstk.edu.pl
+
 <!--
 **majkelini0/majkelini0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
